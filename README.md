@@ -9,4 +9,4 @@ commands:
 /slime
 
 
-add a number 1-10 after command where 1=top right and 5=top left and so on for bottem row of room.
+add a number 1-10 after command where 5=top right and 1=top left and so on for bottem row of room.
